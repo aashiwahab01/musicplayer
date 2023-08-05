@@ -1,0 +1,151 @@
+/* nav bar */
+.navbar{
+    background-color: rgb(21, 21, 52) !important;
+   
+}
+.search-item{
+    background-color: rgb(32, 32, 44) !important;
+    border:  rgb(32, 32, 44) !important;
+    
+}
+.search-bar{
+    background-color: rgb(32, 32, 44) !important;
+    border-radius: 20px;
+}
+
+.span{
+    color: red;
+    font-weight: bold;
+}
+.navbar-nav{
+    margin-right: 150px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.d-flex{
+    width: 500px;
+    
+}
+.main-logo{
+    margin-left: 80px;
+}
+body{
+  background-color: rgb(19, 17, 17) !important;
+}
+.icon8{
+    padding:10px ;
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+    
+}
+.nav-link{
+    padding: 15px !important;
+}
+.carousel{
+    height: 400px;
+    height:300px;
+}
+
+/* body{
+    background: linear-gradient(180deg,var(--primary),var(--secondary));
+    background: linear-gradient(top,rgb(56, 47, 47) 100%,black 0%);
+}
+:root{
+    --primary:rgb(73, 64, 64);
+    --secondary:black;
+} */
+
+
+/* first row images */
+.p1{
+    color: white;
+    text-align: left;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    font-family: 'Kalam', cursive;
+}
+.head1{
+    color: white;
+    /* font-family: 'Hind', sans-serif; */
+    font-family: 'Kalam', cursive;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    padding-top: 80px;
+    
+}
+.option{
+  color: whitesmoke;
+  margin-left: 1400px;
+  
+}
+.img1{
+    
+   margin-left: 20px;
+   border-radius: 20px;
+   align-content: center;
+  
+}
+
+/* .img1:hover{
+  transform: scale(1.25);
+  box-shadow: 0 25px 40px rgba(0,0,0,.5);
+} */
+
+
+    .p1:hover{
+        color: grey;
+    }
+.anchor{
+    text-decoration:none;
+}
+/* second row images */
+.p2{
+    color: white; 
+    padding-left: 25px;
+   
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-family: 'Hind', sans-serif;
+}
+.head2{
+    color: white;
+    /* font-family: 'Hind', sans-serif; */
+    font-family: 'Kalam', cursive;
+    margin-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+.img2{
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+.anchor2{
+  text-decoration: none;
+}
+
+/* third row */
+.head3{
+    color: white;
+    margin-left: 60px;
+    font-family: 'Hind', sans-serif;
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+.p3{
+    color: white;
+    padding-left: 100px;
+    font-family: 'Hind', sans-serif;
+
+}
+.img3{
+    padding: 10px;
+    margin-left: 50px;
+}
+
+
+
+
+

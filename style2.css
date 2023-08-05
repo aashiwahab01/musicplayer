@@ -1,0 +1,95 @@
+
+.h2{
+    color: white;
+}
+.cancel{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#strip{
+    color: rgb(104, 102, 108);
+    background-color: rgb(64, 64, 65);
+    margin-top: 600px;
+    padding-bottom: 20px;
+}
+.buttons{
+margin-left: 400px;
+}
+
+/* buttons */
+.prev{
+     margin-left: 280px;
+}
+.next{
+    margin-left: 30px;
+}
+#icon{
+    margin-left:30px ;
+}
+
+.upper-part{
+    margin-left: 60px;
+    margin-bottom: 250px;
+    position: absolute
+}
+.queue{
+    margin-left: 500px;
+    margin-bottom: 200px;
+    position: absolute;
+
+}
+.img1{
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;   
+}
+.p1{
+    color: white;
+    margin-left: 70px;
+    padding-bottom: 20px;
+    padding-top: 10px;  
+}
+
+.body{
+    background-color: rgb(19, 17, 17) ;
+    background-image:url("blurimg3.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p2{
+    color: white;
+}
+.h3{
+    color: white !important;
+    padding-top: 10px;
+}
+.p{
+    color: white !important;
+}
+
+.cancel{
+    color: white;
+}
+.line{
+    color: white !important;
+    width: 800px;
+}  
+.i1{
+    position: absolute;
+    border-radius: 20px;
+}
+.i1:hover{
+    height: 70px;
+    width: 70px;
+}
+.p1:hover{
+    height: 80px;
+    color: grey;
+}
+.a1{
+    text-decoration: none;
+    color: white;
+}
+
+
+
